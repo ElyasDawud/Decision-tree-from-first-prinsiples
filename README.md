@@ -1,1 +1,1 @@
-# Decision-tree_from-firs-prinsiples
+# Decision-tree_from-first-prinsiples
